@@ -1,2 +1,2 @@
-# Halloween-WebSite 🎃
+# Halloween WebSite 🎃
 ![halloween](/preview.png)

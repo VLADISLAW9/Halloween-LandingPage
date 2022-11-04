@@ -1,2 +1,2 @@
-# Responsive Halloween Website 🎃
+# Responsive Halloween Landing Page 🎃
 ![halloween](/preview.png)
